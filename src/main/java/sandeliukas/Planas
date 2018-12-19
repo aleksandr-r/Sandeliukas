@@ -1,0 +1,25 @@
+Klausimas - ar ne Order klaseje turetu atsirasti visi kintamieji?
+
+Sukurti programa, kuri galetu:
+1. Priimti uzsakyma
+2. Patikrinti uzsakymo teisinguma
+2.1. Esant neteisingai informacijai, leisti kartoti/pataisyti uzsakyma
+3. Pateikti informacija apie likucius
+4. Esant sutarciai, pateikti uzklausa sandeliui.
+4.1. Sukurti unique ID ir uzsakymo statusus
+5. Pagal sutarti, isimti kieki is sandelio.
+6. Issaugoti duombazeje duomenis apie sandori.
+7. Suformuoti laiska su duomenim.
+7.1. Uzsakymo atsaukimas
+7.2. Uzsakymo patikrinimas
+8. Priimti duomenu apie kieki ivedima sandelyje.
+9. Vartotoju suvedimas.
+10. Teisiu suteikimas.
+11. Push notificationai.
+12. UI sukurimas.
+13. Apps'o sukurimas.
+14. Automatiniai testai.
+15. Unit testai.
+16. Load testai.
+17. Sukurti jenkinso joba
+18. Padeplointi

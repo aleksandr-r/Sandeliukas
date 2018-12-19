@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="be.jlr-home.gradle:plantumlPlugin:0.1.1" type="repository">
+    <properties maven-id="be.jlr-home.gradle:plantumlPlugin:0.1.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/be/jlr-home/gradle/plantumlPlugin/0.1.1/plantumlPlugin-0.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/sourceforge/plantuml/plantuml/8001/plantuml-8001.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
