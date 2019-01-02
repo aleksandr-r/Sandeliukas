@@ -1,0 +1,91 @@
+[
+  {
+    "line": 3,
+    "elements": [
+      {
+        "line": 6,
+        "name": "Send the order for \u0027100\u0027 Eggs",
+        "description": "",
+        "id": "testing-the-order-execution-flow;send-the-order-for-\u0027100\u0027-eggs",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7,
+            "name": "I have launched the app",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 8,
+            "name": "the count of eggs is positive",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I pick the option \"Y\" to buy eggs",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I provide the number of eggs equal to \u002710\u0027",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I provide the size of eggs equal to \"L\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I pick the delivery date as \"20190101\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 13,
+            "name": "I see the confirmation that my order has been executed successfully",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Testing the order execution flow",
+    "description": "",
+    "id": "testing-the-order-execution-flow",
+    "keyword": "Feature",
+    "uri": "ExecuteTheOrder.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@mainTests"
+      }
+    ]
+  }
+]
